@@ -8,7 +8,7 @@ Description :- The project is to develop a Scatterplot of imdb top 250 movies wi
     
     I crawled IMDb top 250 movies details using beautifulsoup module and after scrollwing the data from the website, i prepared a list of movies with name and the rating of users. using this data i plotted a scatterplot using Highcharts Scatterplot.
     
-Installation :- Initial Start by updating the package list using the following command in lixux terminal:
+Installation :- Initial start by updating the package list using the following command in lixux terminal:
                 "sudo apt update"
            Now you can start the installation of Python 3.8 with the command:
                 "sudo apt install python3.8"
